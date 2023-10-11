@@ -28,7 +28,7 @@
 
 - Open cmd to the project folder
 - Type this command:
-- ```gradle clean test````
+- ``` gradle clean test ```
 
 ## Report View 
 
