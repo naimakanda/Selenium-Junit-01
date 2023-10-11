@@ -7,7 +7,7 @@
 ## Project Scenario: 
 
 - Insert name
-- Insert name
+- Insert email
 - Select Current date from react calendar
 - Typing in text field
 - Upload file (file limit 2 mb)
