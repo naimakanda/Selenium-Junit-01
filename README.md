@@ -1,6 +1,6 @@
 # Selenium-Junit-01
 
-## Web-automation test project. In this project i automate the webform with Selenium webdriver and Junit test runner step by step.
+## This is Web-automation demo test project. In this project i automate the webform with Selenium webdriver and Junit test runner step by step.
 
 - Website Link: https://www.digitalunite.com/practice-webform-learners
 
